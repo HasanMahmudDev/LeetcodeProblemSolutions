@@ -6,3 +6,8 @@ CountOddNumbersinanIntervalRange range = new CountOddNumbersinanIntervalRange();
     
     range.CountOddNumbers(3,7);
     range.CountOddNumbers(8,10);
+
+AverageSalaryExcludingTheMinimumAndMaximumSalary AvgSalary = new AverageSalaryExcludingTheMinimumAndMaximumSalary();
+
+
+
